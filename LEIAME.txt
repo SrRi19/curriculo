@@ -1,0 +1,13 @@
+Boa tarde.
+
+Eu usei o bootstrap não tive como fazer o less por que uso o notpad ++ ,  acho que ele não compila o less ou o sass, mas tenho umas base do que é.
+
+Pesso desculpa pelos erros de PT-BR , vim saber no sábado dia 19 do teste e fiz o que eu puder ate hoje, não justifica esse meu erro mas estou sem internet,
+
+estou usando a intenet do meu visinho amigo de infância para poder enviar, estou a procura de aprender mais e entrar no mercado de trabalho, agradesso a oportunidade.
+
+O que foi usado -> Bootstrap twitter, Jquery , JavasCript , CSS , HTML 5 e um pouco de PHOTOSHOP CC 2014.
+
+O que eu gostaria de adicionar ao projeto -> PHP, AJAX, JSON, MYSQL.
+
+Declaro que é apenas um projeto ficticio.

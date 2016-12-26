@@ -1,0 +1,95 @@
+/*
+Theme Name: Fire Music
+Description: Mais músicas , albuns , seu novo playList!
+Version: 1.0.0
+colors: #3f3e44 -> bg-cinza ; #ffffff -: bg-branco; font-color: #dadada
+*/
+
+html {
+  font-size: 100%;
+}
+
+body {
+  font-size: 15px;
+  font-size: 0.9375rem;
+  font-family: "Century Gothic";
+  color: #141414;
+  padding: 0;
+  background-color:  #b5b5b5;
+  color: #dadada
+}
+
+p{
+	margin: 0px 0 1px 1px;
+    font-size: 18px;
+}
+
+#myphoto{
+	border-radius: 50%;
+    border: 1px solid;
+    overflow: hidden;
+	width: 110px;
+    height: 110px;
+	box-shadow: 0px 1px 15px #dadada;
+	margin: 9% auto;
+}
+
+.bg-top{
+	background-color: #3f3e44;
+}
+
+@font-face{
+	font-family:'Century Schoolbook';
+	src:url(../fonts/SCHLBKBI.ttf);
+}
+
+@font-face{
+	font-family:'Century Gothic';
+	src:url(../fonts/GOTHICBI.ttf);
+}
+
+.info{
+	text-transform: capitalize;
+	font-family: "Century Schoolbook";
+}
+.barra{
+	background: url('../../assets/images/barra.jpg');
+	height:3px;
+}
+.color-black{
+	color:black !important;
+	margin: 2px 0;
+}
+.box{
+	width:100%;
+	float: left;
+}
+.bg-white{
+	background-color: #ffffff;
+}
+
+#linguages{
+	width: 80%;
+	margin: 0 auto;
+	height: 40px;
+	color: white;
+	background-color: #3f3e44;
+	text-align: center;
+	border-radius: 13px;
+    margin-bottom: 12px;	
+}
+
+#linguages h4{
+	line-height: 36px;
+	font-size: 0.8em
+}
+
+.negrito{
+	font-size: 21px;
+}
+
+@media (max-width:425px){
+	.alignCenter{
+		text-align: center;
+	}
+}
